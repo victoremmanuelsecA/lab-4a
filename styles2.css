@@ -1,0 +1,7 @@
+body {
+    background-color: grey;
+    color:black;
+    padding: 40px;
+    text-align: center;
+    display: flex;
+}
